@@ -1,0 +1,177 @@
+.mainDiv{
+	left: 0;
+	right: 0;
+}
+
+.amenaHeaderDiv{
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 80px;
+	width: 100%;
+	background-color: #293848; 
+	position: fixed;
+}
+.amenaHeaderText{
+	margin-left: 10%;
+	color: white;
+}
+
+.headerDiv{
+	left: 0;
+	right: 0;
+	background-color:green;
+	height:700px;	
+	width: 100% !important;
+	text-align:center;
+	
+}
+
+.workerImage{
+	margin-top:200px;
+	height:200px;
+	width:auto;
+	border-radius:50%;
+}
+.headerTitle{
+	color:white;
+	font-size:40px
+}
+.headerText{
+	color:white;
+	font-size: 24px;
+}
+.starDiv{
+	margin:0;
+	width:260px;
+}
+.whiteLine{
+	float:left:
+	100px;
+}
+.portfolioDiv{
+	text-align:center;
+}
+.portfolioHeader{
+	margin-bottom: 0;
+
+}
+.blackStar{
+	margin-top:0;
+	font-size:40px
+}
+.portfolioImagesDiv{
+	clear:left;
+	text-align: center !important;
+}
+.portfolioImg{
+	max-width: 33.333%;
+	height: 230px;
+	cursor: pointer;
+}
+.portfolioImg:hover{
+	 content: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB9mlfNWpmZYgMtCJc1oQKRoEoyRkSt_QQpdgv0ijmxGgENG_');
+}
+.imgRowDiv{
+	clear: left;
+	left:0;
+}
+.aboutDiv{
+	height: 650px;
+	width: 100%;
+	background-color: #24B593;
+	text-align: center;
+	margin-top: 100px;
+	left: 0;
+}
+.aboutTitle{
+    padding-top: 60px;
+	color: white;
+	font-size: 40px;
+}
+.aboutText{
+	font-size: 24px;
+	max-width: 250px;
+	color: white;
+	display:inline-block;
+	vertical-align:top;
+}
+.downloadDiv{
+	margin-top: 30px;
+	text-align: center;
+	cursor: pointer;
+	height: 70px;
+	width: 200px;
+	border: 1px solid white;
+	display:inline-block;
+}
+.downloadDiv:hover{
+	background-color: white;
+	color: black;
+}
+.downloadText{
+	font-size: 23px;
+	text-align: center;
+}
+.footerDiv{
+	text-align: center;
+	height: 400px;
+	width: 100%;
+	background-color: #293848;
+
+}
+.footerTextDiv{
+	height: 330px;
+	width: 100%;
+}
+.copyrightDiv{
+	bottom: 0;
+	height: 70px;
+	width: 100%;
+	background-color: #1A232B;
+}
+.copyrightText{
+	padding-top: 30px; 
+	color: white;
+}
+.contactMeDiv{
+	text-align: center;
+	height: 500px;
+}
+.locationDiv{
+	padding-top: 25px;
+}
+.aboutFreelancerDiv{
+	padding-top: 25px;
+}
+
+.footerTitle{
+	font-size: 30px;
+	color: white;
+}
+.footerText{
+	margin-top: 15px;
+	font-size: 20px;
+	color: white;
+	display: inherit;
+}
+.inputStyle{
+	width: 600px;
+    display: block;
+    height: 50px;
+    margin-top: 10px;
+    text-align: center;
+}
+.sendButton{
+	margin-top: 30px;
+	background-color: #128f76;
+	color: white;
+	height: 50px;
+	width: 100px;
+	border-radius: 10%;
+	cursor: pointer;
+}
+.inputFieldsDiv{
+	text-align: center;
+	display: inline-block;
+}
